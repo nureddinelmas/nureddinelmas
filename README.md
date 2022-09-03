@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on making mobile apps
+- 🌱 I’m currently learning Flutter and React-Native
+- 👯 I’m looking to collaborate on getting challange projects
+
 <!--
 **nureddinelmas/nureddinelmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
